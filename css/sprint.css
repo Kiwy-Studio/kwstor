@@ -1,0 +1,65 @@
+/*Bottone Indietro*/
+.retro {
+ width: 60px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: red;
+ box-shadow: 0px 0px 15px green;
+ font-size: large;
+ color: #000;
+}
+         
+.retro:hover {
+ opacity: .7;
+}
+         
+.retro:active {
+ background-color: #000;
+ color: red;
+ box-shadow: 0px 0px 55px yellow;
+}
+
+/*Bottone Windows x86*/
+.Win86 {
+ width: 130px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: lightseagreen;
+ box-shadow: 0px 0px 15px blue;
+ font-size: large;
+ color: #000;
+}
+            
+.Win86:hover {
+ opacity: .7;
+}
+            
+.Win86:active {
+ background-color: #000;
+ color: lightseagreen;
+ box-shadow: 0px 0px 55px cyan;
+}
+   
+/*Bottone Windows x64*/
+.Win {
+ width: 130px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: blue;
+ box-shadow: 0px 0px 15px lightseagreen;
+ font-size: large;
+ color: #000;
+}
+               
+.Win:hover {
+ opacity: .7;
+}
+               
+.Win:active {
+ background-color: #000;
+ color: blue;
+ box-shadow: 0px 0px 55px cyan;
+}
