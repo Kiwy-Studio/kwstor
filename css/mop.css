@@ -1,0 +1,109 @@
+/*Bottone Indietro*/
+.retro {
+ width: 60px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: red;
+ box-shadow: 0px 0px 15px green;
+ font-size: large;
+ color: #000;
+}
+      
+.retro:hover {
+ opacity: .7;
+}
+      
+.retro:active {
+ background-color: #000;
+ color: red;
+ box-shadow: 0px 0px 55px yellow;
+}
+
+/*Bottone Android*/
+.An {
+ width: 80px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: green;
+ box-shadow: 0px 0px 15px greenyellow;
+ font-size: large;
+ color: #000;
+}
+         
+.An:hover {
+ opacity: .7;
+}
+         
+.An:active {
+ background-color: #000;
+ color: green;
+ box-shadow: 0px 0px 55px lime;
+}
+
+/*Bottone Windows*/
+.Win {
+ width: 90px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: blue;
+ box-shadow: 0px 0px 15px lightseagreen;
+ font-size: large;
+ color: #000;
+}
+         
+.Win:hover {
+ opacity: .7;
+}
+         
+.Win:active {
+ background-color: #000;
+ color: blue;
+ box-shadow: 0px 0px 55px cyan;
+}
+
+/*Bottone MacOS*/
+.MOS {
+ width: 80px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: lightseagreen;
+ box-shadow: 0px 0px 15px blue;
+ font-size: large;
+ color: #000;
+}
+            
+.MOS:hover {
+ opacity: .7;
+}
+            
+.MOS:active {
+ background-color: #000;
+ color: lightseagreen;
+ box-shadow: 0px 0px 55px cyan;
+}
+
+/*Bottone Ubuntu*/
+.Ub {
+ width: 90px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: orange;
+ box-shadow: 0px 0px 15px orangered;
+ font-size: large;
+ color: #000;
+}
+               
+.Ub:hover {
+ opacity: .7;
+}
+               
+.Ub:active {
+ background-color: #000;
+ color: orange;
+ box-shadow: 0px 0px 55px darkorange;
+}
