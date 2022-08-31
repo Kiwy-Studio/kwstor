@@ -1,0 +1,83 @@
+/*404*/
+.E404 {
+ font-size: 250px;
+ color: black;
+ animation: error 5s infinite;
+}
+
+@keyframes error {
+ 10% {
+  color: orange;
+ }
+ 20% {
+  color: green;
+ }
+ 30% {
+  color: yellow;
+ }
+ 40% {
+  color: blue;
+ }
+ 50% {
+  color: cyan;
+ }
+ 60% {
+  color: chocolate;
+ }
+ 70% {
+  color: purple;
+ }
+ 80% {
+  color: gold;
+ }
+ 90% {
+  color: greenyellow;
+ }
+ 100% {
+  color: red;
+ }
+}
+
+/*Bottone Home*/
+.home{
+ width: 75px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: green;
+ box-shadow: 0px 0px 15px darkgreen;
+ font-size: large;
+ color: #000;
+}
+   
+.home:hover {
+ opacity: .7;
+}
+   
+.home:active {
+ background-color: #000;
+ color: green;
+ box-shadow: 0px 0px 55px yellowgreen;
+}
+
+/*Bottone Select*/
+.select {
+ width: 120px;
+ height: 45px;
+ border-color: transparent;
+ border-radius: 40px;
+ background-color: burlywood;
+ box-shadow: 0px 0px 15px orangered;
+ font-size: large;
+ color: #000;
+}
+
+.select:hover {
+ opacity: .7;
+}
+
+.select:active {
+ background-color: #000;
+ color: burlywood;
+ box-shadow: 0px 0px 55px red;
+}
