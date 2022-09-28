@@ -1,0 +1,65 @@
+/*Man Of Peace*/
+.MOP {
+ color: transparent;
+}
+
+.MOP:hover {
+ color: transparent;
+ opacity: .7;
+ zoom: 120%; 
+}
+
+/*Infinite Run*/
+.IR {
+ color: transparent;
+}
+   
+.IR:hover {
+ color: transparent;
+ opacity: .7;
+ zoom: 120%;
+}
+
+/*Sprint*/
+.SPR {
+ color: transparent;
+}
+   
+.SPR:hover {
+ color: transparent;
+ opacity: .7;
+ zoom: 120%;
+}
+
+/*Kiwy Store App*/
+.KSA {
+ color: transparent;
+}
+   
+.KSA:hover {
+ color: transparent;
+ opacity: .7;
+ zoom: 120%;
+}
+
+/*Care Center*/
+.CC {
+ color: transparent;
+}
+
+.CC:hover {
+ color: transparent;
+ opacity: .7;
+ zoom: 120%;
+}
+
+/*Care x Sprint*/
+.CXS {
+ color: transparent;
+}
+   
+.CXS:hover {
+ color: transparent;
+ opacity: .7;
+ zoom: 120%;
+}
