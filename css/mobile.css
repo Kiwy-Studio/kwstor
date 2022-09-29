@@ -10,8 +10,6 @@ body {
 
 .MOP:hover {
  color: transparent;
- opacity: .7;
- zoom: 120%; 
 }
 
 /*Infinite Run*/
@@ -21,8 +19,6 @@ body {
    
 .IR:hover {
  color: transparent;
- opacity: .7;
- zoom: 120%;
 }
 
 /*Sprint*/
@@ -32,8 +28,6 @@ body {
    
 .SPR:hover {
  color: transparent;
- opacity: .7;
- zoom: 120%;
 }
 
 /*Kiwy Store App*/
@@ -43,8 +37,6 @@ body {
    
 .KSA:hover {
  color: transparent;
- opacity: .7;
- zoom: 120%;
 }
 
 /*Care Center*/
@@ -54,8 +46,6 @@ body {
 
 .CC:hover {
  color: transparent;
- opacity: .7;
- zoom: 120%;
 }
 
 /*Care x Sprint*/
@@ -65,6 +55,4 @@ body {
    
 .CXS:hover {
  color: transparent;
- opacity: .7;
- zoom: 120%;
 }
